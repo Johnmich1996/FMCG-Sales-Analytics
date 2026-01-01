@@ -43,3 +43,8 @@ This project focuses on analyzing FMCG sales data to understand revenue trends, 
 ## 📌 Conclusion
 This project demonstrates end-to-end FMCG sales analysis, from data cleaning and KPI modeling to dashboard creation and business insight generation.
 
+## Dashboards and Reports
+* <a href="https://github.com/Johnmich1996/FMCG-Sales-Analytics/blob/main/Excel%20Dashboard.jpg"> **Excel Dashboard**
+* <a href="https://github.com/Johnmich1996/FMCG-Sales-Analytics/blob/main/Power%20Bi%20Dashboard.jpg"> **Power BI Dashboard**
+* <a href="https://github.com/Johnmich1996/FMCG-Sales-Analytics/blob/main/Tableau%20Dashboard.jpg"> **Tableau Dashboard**
+
